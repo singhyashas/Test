@@ -1,2 +1,2 @@
 This is another test file.
-I am in feature.
+I am in feature2.
